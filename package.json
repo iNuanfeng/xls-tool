@@ -1,0 +1,14 @@
+{
+  "name": "xls-tool",
+  "version": "0.1.0",
+  "description": "xls文件处理",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kangxufeng(kangxufeng@duiba.com.cn)",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.15.0"
+  }
+}
